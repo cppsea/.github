@@ -13,6 +13,7 @@ If you have any questions regarding projects, please send us an email to our pro
 
 Project Recruitment forms, Memberships, website and social media will be here: https://linktr.ee/cppsea
 
+Presented by ~
 
 <img width="449" height="140" alt="full-logo" src="https://github.com/user-attachments/assets/8c2ec1ad-1eab-40c9-8b57-2a53d31686fe" />
 
